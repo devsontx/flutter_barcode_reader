@@ -33,3 +33,4 @@ To use on iOS, you must add the the camera usage description to your Info.plist
 
     <key>NSCameraUsageDescription</key>
     <string>Camera permission is required for barcode scanning.</string>
+
